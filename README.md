@@ -9,7 +9,7 @@ Meu nome é Alisson, profissional em período de transição para a área de An�
 - Pipelines de Dados
 
 #### 📚 Projetos
-Bem vindo ao meu portfolio, aonde hospedo meus projetos.
+Bem vindo ao meu portfolio, aonde hospedo meus [projetos](https://github.com/ABresiani/Portfolio).
 
 #### 🛠️ Ferramentas
 - Linguagens: SQL, Python
