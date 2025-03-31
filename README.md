@@ -17,4 +17,4 @@ Bem vindo ao meu portfolio, aonde hospedo meus projetos.
 - Visualização: Looker Studio
 
 #### 👋 Entre em contato:
-- [LinkedIn](www.linkedin.com/in/alisson-bresiani-cardoso)
+- [LinkedIn](https://www.linkedin.com/in/alisson-bresiani-cardoso/)
